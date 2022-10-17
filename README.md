@@ -1,9 +1,10 @@
-# Vídeo Utils
+# IA Video Utils
 
 Este projeto é um utilitário que visa economizar tempo em pesquisas relacionadas à visão computacional. 
 
 Compilamos algumas das principais ferramentas relacionadas da área em uma ferramenta simples e fácil de utilizar.
 
+Você pode utilizar um dos modelos já treinados ou integrar facilmente um novo modelo.
 <br>
 
 # Para que serve este projeto?
@@ -15,8 +16,8 @@ Você pode executar este projeto para executar as seguintes ações:
 - Timelapse (pode configurar o total de fotos e tempo de intervalo)
 
 - Detecção de objetos (Atualmente usando a SSD MobileNet V2)
-- Detecção de rostos (Caascade)
-- Detecção de rosto com emoji (Deeperface)
+- Detecção de rostos (Atualmente usando o Caascade)
+- Detecção de rosto com emoji (Atualmente usando a Deeperface)
  
 - Detecção de movimento (Built in)
 - Detecção de Objetos Avançada (Mask-RCNN)
